@@ -12,8 +12,8 @@ int main() {
   cin >> favorite_number;
   cout << "amazing! thats my favorite number too" << std::endl;
   cout << "No really!!, " << favorite_number << "is my favorite number"
-       << '\n';
+       << '\n';re
        ..fd
-       
+
   ,
 }
