@@ -1,17 +1,19 @@
 #include <iostream>
 
+// This is a comment
+/* this is a comment
+That works multilne*/
+
+using namespace std;
+
 int main() {
   int favorite_number;
-
-  //std::cout << "Enter your favorite number between 1 and 100:" << '\n';
-
-  std::cin >> favorite_number;
-
-  //std::cout << "amazing! thats my favorite number too" << std::endl;
-
-  return 0;
-
- if  (favorite_number > 10) {
-   std::cout << "Correct" << '\n';
- }
+  cout << "Enter your favorite number between 1 and 100:" << '\n';
+  cin >> favorite_number;
+  cout << "amazing! thats my favorite number too" << std::endl;
+  cout << "No really!!, " << favorite_number << "is my favorite number"
+       << '\n';
+       ..fd
+       
+  ,
 }
